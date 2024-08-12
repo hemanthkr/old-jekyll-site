@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
 title: My Blog
 description: A blog about my projects
+github_username: hemanthkr
+
+
+
+
+
+
+
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
