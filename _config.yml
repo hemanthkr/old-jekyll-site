@@ -9,6 +9,6 @@ github_username: hemanthkr
 
 
 
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
