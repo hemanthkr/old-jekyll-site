@@ -30,7 +30,7 @@ author:
 logo: /assets/images/logo.png # Path to your logo image, leave empty to disable
 
 # Theme settings
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 
 # Permalinks
 permalink: /:categories/:title/ # URL structure for posts
