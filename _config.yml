@@ -1,7 +1,59 @@
-title: My Blog
+# Site settings
+title: Hemanth K. Ramu
+description: A brief description of your blog.
+url: "https://hemanthkr.github.io" # The base URL of your site, leave it empty when developing locally.
+baseurl: "" # The subpath of your site, e.g. /blog, leave it empty for your root site.
+repository: hemanthkr/hemanthkr.github.io # GitHub repository
 
-description: A blog about my projects
+# Author settings
+author:
+  name: Hemanth K. Ramu
+  avatar: /assets/images/your-avatar.png # Path to your avatar image
+  bio: A short bio about you.
+  location: Your Location
+  email: your.email@example.com
+  links:
+    - label: GitHub
+      icon: "fab fa-github"
+      url: "https://github.com/hemanthkr"
+    - label: Twitter
+      icon: "fab fa-twitter"
+      url: "https://x.com/hemanthkr30"
+    - label: LinkedIn
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/hemanth-kr/"
+    - label: Email
+      icon: "fas fa-envelope"
+      url: "mailto:hemanthkr30@gmail.com"
 
-github_username: hemanthkr
+# Site logo
+logo: /assets/images/logo.png # Path to your logo image, leave empty to disable
 
-theme: minima
+# Theme settings
+theme: minimal-mistakes-jekyll
+
+# Permalinks
+permalink: /:categories/:title/ # URL structure for posts
+
+# Pagination settings
+paginate: 5 # Number of posts to show per page
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "single"
+      author: "Hemanth K. Ramu"
+      comments: true
+      share: false # Social sharing buttons removed
+
+# Include these files in the build process
+# include:
+#   - _pages

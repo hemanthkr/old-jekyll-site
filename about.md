@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
 **Hemanth K. Ramu**  
 Coventry, UK  
-[LinkedIn](https://linkedin.com/in/hemanth-kr) | [Email](hemanthkr30@gmail.com)
+[LinkedIn](https://linkedin.com/in/hemanth-kr) | hemanthkr30@gmail.com
 
 ---
 
