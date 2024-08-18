@@ -8,7 +8,7 @@ repository: hemanthkr/hemanthkr.github.io # GitHub repository
 # Author settings
 author:
   name: Hemanth K. Ramu
-  avatar: /assets/images/your-avatar.png # Path to your avatar image
+  avatar: /assets/images/avatar.png # Path to your avatar image
   bio: A short bio about you.
   location: Your Location
   email: your.email@example.com
