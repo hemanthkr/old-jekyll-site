@@ -18,14 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hemanth K. Ramu
+title: Hemanth's LogBook
 email: hemanthkr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My Blog Site
+  A chronicle of continuous learning and discovery.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hemanthkr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hemanthkr30
 github_username:  hemanthkr
+
+# Unused default fields from minima theme
+author: Hemanth K. Ramu
+linkedin_username: hemanth-kr
+
+# New fields not defaulted
+copyright: Hemanth's LogBook
 
 # Build settings
 # Removed minima theme.
