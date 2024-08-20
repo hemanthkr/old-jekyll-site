@@ -27,7 +27,7 @@ url: "https://hemanthkr.github.io/" # the base hostname & protocol for your site
 twitter_username: hemanthkr30
 github_username:  hemanthkr
 
-# Unused default fields from minima theme
+# Unused default fields from jekyll minima theme
 author: Hemanth K. Ramu
 linkedin_username: hemanth-kr
 
