@@ -34,12 +34,26 @@ linkedin_username: hemanth-kr
 # New fields not defaulted
 copyright: Hemanth's LogBook
 
+# navigation structure
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+
 # Build settings
 # Removed minima theme.
 # theme: minima
 plugins:
   - jekyll-feed
 
+# Adding support for additional features with Github Flavoured Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

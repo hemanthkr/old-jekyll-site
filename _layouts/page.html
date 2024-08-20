@@ -7,6 +7,9 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="" class="profile-image">
+  {% endif %}
   <div class="post-content">
     {{ content }}
   </div>
