@@ -15,6 +15,4 @@ I like to dive deep into topics that peak my interest and this blog will be a pl
 
 > You are best positioned to help people one step behind you.
 
-
-
 I am hoping that this blog will keep me disciplined when the discomfort of learning new things becomes real. For more information on my background and experience, take a look at my [CV]({% link pages/cv.md %}).
