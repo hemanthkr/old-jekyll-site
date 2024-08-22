@@ -46,6 +46,7 @@ nav:
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Adding support for additional features with Github Flavoured Markdown
 markdown: kramdown

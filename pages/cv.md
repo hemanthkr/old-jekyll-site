@@ -6,7 +6,7 @@ permalink: /cv/
 
 **Hemanth K. Ramu**  
 Coventry, UK  
-[LinkedIn](https://linkedin.com/in/hemanth-kr) | [Email](mailto:hemanthkr30@gmail.com)
+[LinkedIn](https://linkedin.com/in/hemanth-kr){:target="_blank"} | [Email](mailto:hemanthkr30@gmail.com)
 
 ---
 
