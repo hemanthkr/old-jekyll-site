@@ -208,14 +208,15 @@
 }
 
 .profile-image {
-  display: block;
-  float: inline-end;
+  float: right;
+  margin: 0 0 20px 20px; /* Aligns the image to the right and adds some margin */
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  margin-left: 40px;
-  margin-bottom: 20px;
   
+  @include media-query($on-palm) {
+    padding: 38px;
+  }
 }
 
 
