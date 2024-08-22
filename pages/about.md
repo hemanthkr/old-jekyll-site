@@ -5,8 +5,6 @@ permalink: /about/
 image: /images/profile.png
 ---
 
-<!-- ![Profile Image]({{ page.image }}) -->
-
 I am a Data Scientist with over 5 years of experience in software engineering and have worked in a variety of roles, including Data Engineering, Sofware Development and Machine Learning.
 
 I like to dive deep into topics that peak my interest and this blog will be a place to share my learnings. I was inspired from this [__blog__] by _Dr. Rachel Thomas_ from [FastAI] to start documenting my learning. Here are some of my favorite parts of the blog:
